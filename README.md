@@ -1,2 +1,2 @@
 # solidity-lottery
-simple lottery smart contract app
+simple lottery smart contract app 
